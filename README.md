@@ -1,4 +1,4 @@
-# Classical Piano Composer
+# Music Generation using LSTM
 
 This project allows you to train a neural network to generate midi music files that make use of a single instrument
 
